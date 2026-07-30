@@ -1,0 +1,3 @@
+.news-feature-secondary{margin-top:4rem;box-shadow:10px 10px 0 var(--pink)}
+.news-inset-secondary{top:auto;bottom:2rem;right:clamp(150px,22vw,300px);box-shadow:6px 6px 0 var(--blue)}
+@media(max-width:700px){.news-feature-secondary{box-shadow:6px 6px 0 var(--pink)}.news-inset-secondary{display:none}}
